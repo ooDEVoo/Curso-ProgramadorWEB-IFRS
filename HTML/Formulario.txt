@@ -1,0 +1,76 @@
+
+
+	<!-- FORMULÁRIO
+
+	<form action="recebe_form.php" method="post">
+	....
+	</form>
+
+	PARÂMETROS
+	
+	* action
+	* autocomplete	//permite o armazenamento dos dados para autocompletar
+	* enctype  	//premite o envio de arquivos		
+	* method
+ 	* name		//permite nomear um arquivo
+  	* novalidate  	//não validar os dados do fromulário
+	* target		//abiri na mesma janela ou em outra janela seguinte
+ 	
+
+	CAMPOS DE TEXTO  
+
+	PARÂMETROS DA tag =  <input>
+
+	* autocomplete
+	* autofocus	//pré seleciona um campo para preenchimento
+ 	* disable		//define um campo desabilitado
+	* max			
+	* maxlength	//define um número máximo de caracteres	
+	* min
+	* name
+	* pattern		//define um padrão de caracteres a ser digitado
+	* placeholder	//informação descrita dentro do campo
+	* readonly	//campo de apenas leitura
+	* required		//campo obrigatório ou opcional
+	* size		//tamanho do campo em pix ou %
+	* type		//tipo: ex. "text"
+	* value      	//valor definido dentro do input				
+	* password    	//oculta os caracteres                                             
+
+	PARAMETROS DA tag = <textarea>
+	
+	* aoutofocus
+ 	* clos
+	* disable
+	* maxlength
+	* name
+	* placeholder
+	* readonly
+	* required
+	* rows
+	* wrap                             		-->
+
+
+<html>
+	<head>
+		<title>Curso HTML</title>
+	</head>
+	<body>
+		<header><h1>Campos de texto</h1></header>
+	<nav>MENU</nav>
+	<section>
+	
+	<form method="post" action="#">
+	Nome: <input type="text" name="nome" placeholder="Informe seu nome"   value="Joana da Silva" required><br>           <!-- entrada do tipo texto -->
+	E-mail: <input type="text" name="email" disabled>
+	CPF: <input type="text"  name="cpf"  maxlength="14" pattern="[0-9] {3} \ . [0-9] {3} \ . [0-9] {3} - [0-9] {2}" >
+	Senha: <input type="password" name="senha" required> 
+	Descrição: <textarea name="descricao"></textarea>
+	</form>
+	
+	</section>
+	<footer>RODAPE</footer>
+	</body>
+</html>
+
+	<!--SITE PARA EXPRESSOES REGULARES HTML5 = www.regexpal.com    -->

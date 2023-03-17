@@ -1,0 +1,24 @@
+
+
+	/* LISTA CLASS IMAGE CSS */
+
+	h1 {
+		font-family: sans-serif;
+		font-size: 14pt;
+		font-weight: bold;
+		color: red;
+	}
+	ul {
+		font-family: Arial;
+		font-size: 12pt;
+	}
+	.doce {
+		list-style-image: url(bolos.jpg);
+	}
+	.fruta {
+		list-style-image: url(morango1.jpg);
+	}
+	.lanche {
+		list-style-image: url(sanduiche.jpg);
+	}
+

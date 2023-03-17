@@ -1,0 +1,15 @@
+
+
+	<!-- JAVASCRIPT -->
+
+	<!doctype html>             <!-- Declaração para informar ao navegador qual é a versão do HTML utilizada no documento. Todos os documentos HTML devem começar com uma declaração <!  -->      
+<html lang='pt-BR' >                      <!-- lang = linguagem em português do Brasil -->
+	<head>
+		<meta charset=' utf-8 ' >      		<!-- Define qual o conjunto de caracteres que serão usados. Ex: o Ç os acentos, etc... -->
+		<title>JavaScript</title>		
+		<script src="meucodigo.js"></script>  <!-- Referência a um arquivo JavaScript. Neste ponto da página, o programa irá pegar um arquivo externo, em JavaScript, para inclusão na página HTML -->
+	</head>
+	<body>
+	</body>
+<html>
+	

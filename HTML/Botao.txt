@@ -1,0 +1,26 @@
+
+
+	<!-- BOTÃO          
+
+	tag = <button type="button"> Clique </button>            -->
+
+	
+<html>
+	<head>
+		<title>Curso HTML</title>
+	</head>
+	<body>
+		<header><h1>BOTOES</h1></header>
+	<nav>MENU</nav>
+	<section>
+		<form method="post" action="recebe.php">
+		Email: <input type="text"><br>
+		Senha: <input type="password"><br>
+		<button type="button>Enviar</button
+		</button>
+	</section>
+	<footer>RODAPE</footer>
+	</body>
+</html>
+
+	

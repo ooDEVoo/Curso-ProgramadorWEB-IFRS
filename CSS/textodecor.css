@@ -1,0 +1,21 @@
+
+
+	p {
+		font-family: Times;    
+		font-size: 20pt;		
+		letter-spacing: 0.3em;       
+		text-align: justify;    		
+	} 
+	
+	.inferior {
+			text-decoration: underline;
+		}
+		.superior {
+			text-decoration: overline;
+		}
+		.centro {
+			text-decoration: line-through;
+		}
+		.pisca {
+			text-decoration: blink;
+		}

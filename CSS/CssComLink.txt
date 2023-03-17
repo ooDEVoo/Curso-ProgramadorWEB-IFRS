@@ -1,0 +1,32 @@
+
+
+	<!-- CSS
+
+	* Consiste em uma folha de estilos
+	* Os estilos podem ser atribuídos:
+	  * a uma TAG do HTML
+	  * a uma Class (classe): conjunto de elementos com as mesmas propriedades
+	  * a um ID (identificador): elemento único
+	* Uma página HTML pode:
+	  * ter o CSS dentro de sua página
+	  * referenciar arquivos CSS externos                          -->
+
+	
+
+	<!-- COM O USO DE LINK -->
+
+<html>
+	<head>
+		<title>Curso HTML</title
+	</head>
+	 	<link rel="stylesheet" type="text/css" href="estilo.css">
+	
+	<body>
+		<header><h1>Introdução</h1><header>
+		Exemplo de texto
+	<nav>MENU</nav>
+	<section>
+	</section>
+	<footer>RODAPE</footer
+	</body>
+</html>

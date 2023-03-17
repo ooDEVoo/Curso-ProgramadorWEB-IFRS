@@ -1,0 +1,24 @@
+
+
+	<-- RÓTULOS E AGRUPAMENTO DE CAMPOS
+
+	<-- RÒTULOS
+
+<html>
+	<head>
+		<title>Curdo HTML</title>
+	</head>
+	<body>
+		<header><h1>RÓTULOS E AGRUPAMENTO DE CAMPOS</h1></header>
+	<nav>MENU</nav>
+	<section>
+		<form action="post">
+		<label for="homem"> Homem</label>
+		<input type="radio" name="sexo" id="homem" value="homem"><br>
+		<label for="mulher">Mulher</label>
+		input type="radio" name="sexo" id="mulher" value="mulher"><br>
+		</form>
+	</section>
+	<footer>RODAPE</footer>
+	</body>
+</html>

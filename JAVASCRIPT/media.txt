@@ -1,0 +1,14 @@
+
+	
+	
+
+<!doctype html>        
+<html lang='pt-BR' >                      
+	<head>
+		<meta charset=' utf-8 ' >      		
+		<script src="media.js"></script>  
+	<body>
+		Calculando a média usando JS
+	</body>
+</html>
+	

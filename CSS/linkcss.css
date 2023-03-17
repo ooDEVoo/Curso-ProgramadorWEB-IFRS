@@ -1,0 +1,20 @@
+
+
+	/* LINKS CSS */
+
+	a:link {
+		background-color: #b2ff99;
+		color: blue;
+	}
+	a:visited {				/* Muda a cor do link que já foi acessado */
+		background-color: #ffff85;	
+		color: red;		/* Letras na cor vermelha */
+	}
+	a:hover {				/* Quando o mouse estiver sobre o link */
+		background-color: #77704D;  /* Cor laranja */
+		color: green;		/* Letras na cor verde */
+	}
+	a:active {
+		background-color: #ff704D;
+		color: gray;
+	}

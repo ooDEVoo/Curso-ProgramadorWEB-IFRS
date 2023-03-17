@@ -1,0 +1,8 @@
+
+	/* EVENTOS DE MOUSE - CSS */
+
+#cores {				/*uso do "#" para identificar que é um "id" */
+	width: 200px;
+	height: 200px;
+	background-color: gray;
+	}

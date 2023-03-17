@@ -1,0 +1,31 @@
+
+	<!-- LINKS 
+
+    <!--	<a href="sobremim.html">Sobre mim</a>     -->
+
+	 PARÂMETROS 
+	* download
+	* href
+	* target: _blank, _parent, _seft, _top  
+
+	PAGINA INDEX -->
+
+
+
+<html>
+	<head>
+		<title>Index</title>
+	<head>
+	<body>
+		 <header><h1>Curso de HTML</h1></header>
+	<nav>
+		<a href="sobremim.html">Sobre Mim</a><br>
+		<a href="Contato.html">Contato</a>
+	</nav>
+	<section>
+		Aqui é o Index
+	</section>
+	<footer></footer>
+
+	</body>
+</html>

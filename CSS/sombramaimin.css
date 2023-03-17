@@ -1,0 +1,19 @@
+
+
+	Texto: SOMBRA E LETRAS MAIÚCULAS E MINÚSCULAS
+
+	h1 {
+		font-family: sans-serif;
+		font-size: 18pt;
+		font-weight: bold;
+		text-shadow: blue 5px 6px 2px;
+		text-transform: capitalize;
+	}
+
+	p {
+		font-family: Arial;
+		font-size: 12pt;
+		text-align: justify;
+		text-indent: 30pt;
+	}
+	

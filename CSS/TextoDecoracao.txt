@@ -1,0 +1,17 @@
+
+
+	<html>
+	<head>
+		<title>Curso HTML</title>
+	</head>
+	<link rel="stylesheet" type="text/css" href="textodecor.css">
+	<body>
+		<h1>Título da página</h1>
+		<p>Texto do corpo da página. . .<br><br>
+		<span class="inferior">Linha inferior</span><br><br>
+		<span class="superior">Linha superior</span><br><br>
+		<span class="centro">Linha no centro</span><br><br>
+		<span class="piscar">Piscando</span><br><br>
+		</p>
+	</body>
+</html>

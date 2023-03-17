@@ -1,0 +1,35 @@
+
+<!--  ------ FORMATAÇÃO---------  -->
+
+	<!-- DESCRIÇÂO -->
+
+	<!--  <h1> </h1> 	= tamanho da fonte -->
+	<!--  <br> 	= Quebra de Linha -->
+	<!--  <p> </p> 	= Parágrafo -->
+	<!--  <hr> 	= Linha separadora -->
+	<!--  <b> </b>	= Negrito -->
+	<!--  <i> </i> 	= Itálico -->
+		
+
+<html>
+		
+		<head>
+			<title>Hello World</title>
+		</head>
+		
+		<body>
+		   <header><h1><hr>Cabeçalho</h1></header>    <!-- <h1> = tamanho da fonte -->
+		
+		<nav><hr>Menu</nav>
+		
+		<section><br>Seção</section>
+		<b>NOTICIAS</b>
+		<section><br>Seção</section>
+		<i>ESPORTES</i>
+		<section><p>Seção</p></section>
+		ECONOMIA
+		
+		<footer>Rodapé</footer>
+	
+		</body>
+</htlm>

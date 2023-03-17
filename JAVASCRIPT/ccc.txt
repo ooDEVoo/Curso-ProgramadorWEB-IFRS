@@ -1,0 +1,14 @@
+
+
+<!doctype html>
+<html lang='pt-BR'>
+
+	<head>
+		<meta charset='utf-8'>
+		<title>Curso JavaScript</title>
+		<script src="meuucodigo.js"></script>
+	</head>
+	<body>
+		Minha primeira página usando JavaScript.
+	</body>
+</html>

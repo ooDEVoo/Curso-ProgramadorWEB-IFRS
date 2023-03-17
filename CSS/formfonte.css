@@ -1,0 +1,33 @@
+
+	
+	p {
+		font-family: Times;    
+		font-size: 20pt;		<!-- pt = unidade de medida, assim como o pixel  -->
+		letter-spacing: 0.3em;       	<!-- espaçamento entre as letras / em = unidade de medida, um pouco maior que o pixel  -->
+		text-align: justify;    		<!-- alinhamento do texto  -->
+	} 
+		<!-- justify opções
+		* left
+		* right
+		* center
+		* justify    -->
+
+		<!-- UNIDADES DE TAMANHO 
+		RELATIVO = deoende do tamanho do navegador		ABSOLUTO = não se ajusta ao tamanho do navegador
+		* %						* in
+		* em						* cm
+		* ex						* mm
+		* px						* pt
+								* pc			-->
+		.inferior {
+			text-decoration: underline;
+		}
+		.superior {
+			text-decoration: overline;
+		}
+		.centro {
+			text-decoration: line-through;
+		}
+		.pisca {
+			text-decoration: blink;
+		}

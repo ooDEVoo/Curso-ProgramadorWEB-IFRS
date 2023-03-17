@@ -1,0 +1,23 @@
+
+	---- OUTRAS BIBLIOTECAS ---
+	
+	**** JQUERY ****
+	* Bibliotecas UI (user interface): destinadas a interface, processos de melhorias de 
+	intefaces e automatizações
+	
+	* Biblioteca para dispositivos móveis (Jquery Mobile): inteface para dispositivos móveis
+
+	**** math Js ****
+	* Biblioteca importante para realização de operações matemáticas, com várias funções
+	 implementadas
+
+	**** Format Js ****
+	* Biblioteca que permite a internacionalização de formato de datas, horas, palavras, exibição 
+	de nomes
+
+	**** Sticker.Js
+	* Biblioteca de apresentação de infirmação (efeitos de colagem e descoloagem de figuras 
+	e cores)
+
+	**** DropzoneJs ****
+	* Biblioteca para envio de arquivo de modo "arrastare soltar" para fazer o upload do arquivo

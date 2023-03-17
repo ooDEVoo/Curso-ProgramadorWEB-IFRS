@@ -1,0 +1,15 @@
+
+
+	<!-- LINKS -->
+
+<html>
+	<head>
+		<title>CUrso HTML</title>
+	</head>
+	<link rel="stylesheet" type="text/css" href="linkscss.css">
+	<body>
+		<a href="https://www.google.com.br/">Google</a><br><br>
+		<a href="https://br.yahoo.com/">Yahoo</a><br><br>
+		<a href="http: //www.bing.com">Bing</a><br><br>
+	</body>
+</html>

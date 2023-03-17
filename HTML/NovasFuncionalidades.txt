@@ -1,0 +1,36 @@
+
+	<!-- NOVAS FUNCIONALIDADES 
+
+	DETALHES
+
+	tag = <details>                                            <details> = MENU DE INFORMAÇÕES OCULTAS
+		<sumary>HTML</sumary>
+		Esta é uma funcionalidade nova.
+	         </details>
+
+	BARRA DE PROGRESSO
+
+	tag = <meter min="0" max="100" low="40" high="90" optimum="100" value="91"></meter>    
+
+	BARRA CARREGAMENTO
+
+	Carregando:
+	
+	<progress></progress>             -->
+
+
+
+<html>
+	<head>
+		<titler>Curso de HTML</title>
+	</head>
+	<body>	
+		<header>Novas Funcionalidades</header>
+	<nav>MENU</nav>
+	<section>
+	Carregamento<br>
+	<progress></progress>
+	</section>
+	<footer></footer>
+	</body>
+</html>

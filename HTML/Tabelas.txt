@@ -1,0 +1,31 @@
+
+	
+	<!-- TABELAS
+	
+	tag = <table></table>
+
+	<table>
+	 <tr>
+		<td>Aqui vai o conteúdo</tr>
+	 </tr>
+	</table>          -->
+
+<html>
+	<head>
+		<title>Curso HTML<title>
+	</head>
+	<body>
+		<header><h1>TABELAS</h1></header>
+	<nav>MENU</nav>
+	<section>
+		<table>
+		  <tr>
+			<td>Aqui vai o conteúdo
+			</td>
+		  </tr>
+		</table>
+	</section>
+	<footer>RODEPÉ</footer>
+
+	</body>
+</html>

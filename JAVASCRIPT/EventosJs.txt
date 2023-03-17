@@ -1,0 +1,13 @@
+
+
+	<!-- EVENTOS -->
+
+	Temos 4 Tipos de eventos na linguagem JavaScript:
+	* LOAD
+	* CLICK
+	* INPUT
+	* MOUSE
+
+	EVENTO DE LOAD:
+	* onLoad: quando  página ou imagem é carregada
+	* onResize: quando a janela do navegador e redimencionada

@@ -1,0 +1,30 @@
+
+	<!-- EVENTOS DE MOUSE 
+
+	* onMouseOver: passando o mouse sobre o elemento
+	* onMouseOut: saindo do elemento
+	* onMouseDown: pressionando o botão do mouse sobre o elemento
+	* onMouseUp: soltando o botão do mouse do elemento
+	* onMouseMove: movimentando o mouse sobre o elemento       -->
+
+<!doctype html>
+<html lang ='pt-BR'>
+	<head>
+		<meta charset='utf-8'>
+		<title>Eventos de MOUSE</title>
+		<script src="mouse.js"></script>
+		<link rel="stylesheet"  type="text/css"  href="mouse.css">
+	</head>
+	<body>
+		<h1>Eventos de mouse</h1>     <!-- <div = espaço/divisão dentro da página  -->
+		<div id="cores"  onMouseOver="sobre()"  onMouseDown="paraBaixo()"  
+		onMouseMove="movendo()"  onMouseOut="saindo()"  onMouseUp="paraCima()">
+		</div>
+		<br>
+		<br>
+		<h2>Log de ocorrências</h2>
+		<div id="log">
+		</div>
+	</body>
+<html>
+	

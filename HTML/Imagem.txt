@@ -1,0 +1,27 @@
+
+	<!-- IMAGEM -->
+
+	<!-- tag = <img src="image.png">  -->
+
+	<!-- PARÂMETROS 
+	* alt
+	* height
+	* src
+	* width     -->
+
+<html>
+	<head>
+		<title>Curso HTML</title>
+	</head>
+	<body>
+		<header><h1>IMAGEM</h1></header>
+	<nav>MENU</nav>
+	<section>
+		<img src="image.JPEG" title="foto de surfista" height ="150px" width = "50%">
+	</section>
+	<footer>
+		RODAPE
+	</footer> 
+	</body>
+	
+</html>

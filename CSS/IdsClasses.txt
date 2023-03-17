@@ -1,0 +1,15 @@
+
+
+	<!-- IDs e Classes -->
+	
+<html>
+	<head>
+		<title>Valida</title>
+	</head>
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+	<body>
+		Texto do corpo da página. . .<br>
+		<span id="id1">Letra maior</span><br>
+		<span class="class1">Letra pequena</span>
+	</body>
+</html>

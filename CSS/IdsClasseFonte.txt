@@ -1,0 +1,15 @@
+
+
+	<!-- IDs e Classes + Fonte -->
+
+<html>
+	<head>
+		<title>Valida</title>
+	</head>
+	<link rel="stylesheet" type="text/css" href="agora.css">
+	<body>
+		<p>Parágrafo comum. . .<br>
+		<p class="classe1">Parágrafo com classe. . .</p>
+		<p class="classe1" id="id1">Parágrafo com classe e identificador. . .</p>
+	</body>
+</html>	

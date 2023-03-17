@@ -1,0 +1,22 @@
+
+<!-- Quando a tag <script> está dentro da tag <head>, significa que o script estará em um local
+	separado do programa HTML. Se a tag <script> estiver dentro da tag <body, significa que o script
+	está dentro do codigo HTML  -->
+
+
+<!doctype html>
+<html lang='pt-BR'>
+
+	<head>
+		<meta charset='utf-8'>
+		<title>Curso JavaScript</title>
+		<script src="meucodigo.js"></script>
+	</head>
+	<body>
+		Minha primeira página usando JavaScript.
+	<script>
+		alert("Deu certo!");   <!-- exibe uma caixa com uma msg de alerta -->
+		document.write("Estou escrevendo no corpo da página"); <!-- escreve direto no corpo da página HTML -->
+	</script>
+	</body>
+</html>

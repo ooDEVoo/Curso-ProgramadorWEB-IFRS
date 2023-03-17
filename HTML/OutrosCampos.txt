@@ -1,0 +1,25 @@
+
+
+	<!-- OUTROS CAMPOS
+
+	OCULTO
+
+	<form method="post" action="recebe.php">
+	<input type="hidden" name="id" value="123">
+	</form>
+
+<html>
+	<head>
+		<title>Curso HTML</title>
+	</head>
+	<body>
+		<header><h1>OUTROS CAMPOS</h1></header>
+	<nav>MENU</nav>
+	<section>
+		<form method="post" action="#">
+		<input type="hidden" name="id" value="123">
+		</form>
+	</section>
+	<footer>ROPDAPE</footer>
+	</body>
+</html>

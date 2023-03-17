@@ -1,0 +1,20 @@
+
+
+	<!-- CONFIRMAÇÃO -->
+
+<!doctype html>
+<html lang='pt-BR'>
+
+	<head>
+		<meta charset='utf-8'>
+		<title>Curso JavaScript</title>
+		<script src="confirmacao.js"></script>
+	</head>
+	<body>
+		Página de confirmação JS
+	<script>
+		alert("Deu certo!");   <!-- exibe uma caixa com uma msg de alerta -->
+		document.write("Estou escrevendo no corpo da página"); <!-- escreve direto no corpo da página HTML -->
+	</script>
+	</body>
+</html>

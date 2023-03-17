@@ -1,0 +1,5 @@
+
+	var repete = 1;
+	while(repete == 1)  {
+		alert("Mensagem: " + repete);
+	}
